@@ -1,0 +1,6 @@
+CHANGED,/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wifidirect/DeviceDetailFragment$3$override.class
+CHANGED,/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wifidirect/DeviceDetailFragment$ServerAsyncTask$override.class
+CHANGED,/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wifidirect/DeviceDetailFragment$1$override.class
+CHANGED,/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wifidirect/DeviceDetailFragment$2$override.class
+CHANGED,/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wifidirect/DeviceDetailFragment$override.class

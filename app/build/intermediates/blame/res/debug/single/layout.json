@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/layout/device_detail.xml",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/layout/device_detail.xml"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/layout/row_devices.xml",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/layout/row_devices.xml"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/layout/main.xml"
+    }
+]

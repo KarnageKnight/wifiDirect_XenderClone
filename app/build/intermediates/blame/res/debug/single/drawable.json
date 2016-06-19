@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/drawable/section_header.xml",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/drawable/section_header.xml"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/drawable/machine.png",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/drawable/machine.png"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/drawable/details_view.xml",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/drawable/details_view.xml"
+    }
+]

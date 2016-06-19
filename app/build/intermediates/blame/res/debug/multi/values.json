@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 55,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 52,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 49,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 49,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 48,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 126,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 55,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 61,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 58,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 26,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 113,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 56,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 58,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 69,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 51,
+                    "endOffset": 991
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 996,
+                    "endColumn": 39,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 45,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 33,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 102,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 35,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]

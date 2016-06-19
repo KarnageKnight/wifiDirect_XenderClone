@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_discover.png",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/drawable-mdpi/ic_action_discover.png"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_on_off.png",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/drawable-mdpi/ic_action_on_off.png"
+    }
+]

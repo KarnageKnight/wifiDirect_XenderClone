@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/device.png",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/mipmap-xxxhdpi/device.png"
+    },
+    {
+        "merged": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

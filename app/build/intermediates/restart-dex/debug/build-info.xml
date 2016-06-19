@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="17"
+    density="hdpi"
+    format="7"
+    timestamp="6649949085868"
+    token="-6950154580477005157" >
+
+    <task
+        name="javac"
+        duration="311" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6649949085868" >
+        <artifact
+            location="/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
