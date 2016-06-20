@@ -43,22 +43,26 @@
             android:id="@+id/device_address"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:theme="@android:style/Theme.Holo.Light" />
+            android:theme="@android:style/Theme.Holo.Light"
+            android:visibility="gone" />
         <TextView
             android:id="@+id/device_info"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:theme="@android:style/Theme.Holo.Light" />
+            android:theme="@android:style/Theme.Holo.Light"
+            android:visibility="gone" />
         <TextView
             android:id="@+id/group_owner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:theme="@android:style/Theme.Holo.Light" />
+            android:theme="@android:style/Theme.Holo.Light"
+            android:visibility="gone" />
         <TextView
             android:id="@+id/group_ip"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:theme="@android:style/Theme.Holo.Light" />
+            android:theme="@android:style/Theme.Holo.Light"
+            android:visibility="gone" />
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
