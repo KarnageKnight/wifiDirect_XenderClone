@@ -1,0 +1,1 @@
+CHANGED,/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/wifidirect/DeviceDetailFragment.class

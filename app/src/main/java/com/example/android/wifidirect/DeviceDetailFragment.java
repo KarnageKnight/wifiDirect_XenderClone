@@ -70,18 +70,17 @@ public class DeviceDetailFragment extends Fragment implements ConnectionInfoList
 	@Override
 	public void onActivityCreated(Bundle savedInstanceState) {
 		super.onActivityCreated(savedInstanceState);
+
 	}
 
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        // create ContextThemeWrapper from the original Activity Context with the custom theme
-       // Context context = new ContextThemeWrapper(getActivity(),
-             //   R.style.ThemeHoloLight);
-// clone the inflater using the ContextThemeWrapper
-     //   LayoutInflater localInflater = inflater.cloneInContext(context);
-// inflate using the cloned inflater, not the passed in default
-      //  return localInflater.inflate(R.layout.device_detail, container, false);
+
 		mContentView = inflater.inflate(R.layout.device_detail, null);
+
+		//mContentView.findViewById(R.id.frag_detail).setBackgroundColor(Color.WHITE);
+
+
 		mContentView.findViewById(R.id.btn_connect).setOnClickListener(new View.OnClickListener() {
 
 			@Override
@@ -124,6 +123,8 @@ public class DeviceDetailFragment extends Fragment implements ConnectionInfoList
 						// Allow user to pick an image from Gallery or other
 						// registered apps
 						Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
+
+						//ONLY CHoosing images, to be chnaged
 						intent.setType("image/*");
 						startActivityForResult(intent, CHOOSE_FILE_RESULT_CODE);
 					}
@@ -205,10 +206,11 @@ return mContentView;
 		DeviceAddress = device.deviceAddress;
 		this.getView().setVisibility(View.VISIBLE);
 		TextView view = (TextView) mContentView.findViewById(R.id.device_address);
+
 		view.setText(device.deviceAddress);
 		view = (TextView) mContentView.findViewById(R.id.device_info);
 		view.setText(device.toString());
-
+		//view.setVisibility(View.INVISIBLE);
 	}
 
 	/**
@@ -225,7 +227,7 @@ return mContentView;
 		view = (TextView) mContentView.findViewById(R.id.status_text);
 		view.setText(R.string.empty);
 		mContentView.findViewById(R.id.btn_start_client).setVisibility(View.GONE);
-		this.getView().setVisibility(View.GONE);
+		this.getView().setVisibility(View.INVISIBLE);
 	}
 
 	/**

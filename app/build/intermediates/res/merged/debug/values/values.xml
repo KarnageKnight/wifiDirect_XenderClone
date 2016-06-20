@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="layout_border_color">#FF111111</color>
-    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#ffffff</color>
+    <color name="status_bar_color">#ffffff</color>
     <dimen name="phone_list_height">200dp</dimen>
     <dimen name="tablet_list_width">300dp</dimen>
     <string name="app_name">WiFi Direct</string>

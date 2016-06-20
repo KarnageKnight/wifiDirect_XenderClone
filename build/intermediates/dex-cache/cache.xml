@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="04a7c201a28e79fb737c47cc9b2acf70f36dbae3">
-        <dex dex="/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_938ccc5546e6fc79ffd3ed9b62069c780be06ca5.jar" />
-    </item>
-
-</items>
+<items version="2" />

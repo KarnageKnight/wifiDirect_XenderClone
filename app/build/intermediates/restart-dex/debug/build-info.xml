@@ -4,30 +4,38 @@
     api-level="17"
     density="hdpi"
     format="7"
-    timestamp="6649949085868"
-    token="-6950154580477005157" >
+    timestamp="33993927871561"
+    token="-6950154580477005157"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="311" />
+        duration="178" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="874" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="16" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
 
     <artifact
-        location="/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="6649949085868" >
+    <build timestamp="33928355671469" >
         <artifact
             location="/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="33993927871561"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/karnageknight/Documents/Android/wifi-direct-demo-master/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
